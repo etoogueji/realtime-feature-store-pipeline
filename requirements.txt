@@ -1,0 +1,10 @@
+kafka-python-ng==2.2.3
+pyspark==3.5.0
+feast==0.40.1
+xgboost==2.0.3
+scikit-learn==1.4.0
+pandas==2.2.0
+fastapi==0.115.6
+uvicorn==0.34.0
+python-dotenv==1.0.1
+prometheus-client==0.19.0

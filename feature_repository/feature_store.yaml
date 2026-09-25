@@ -1,0 +1,6 @@
+project: user_fraud_features
+registry: data/registry.pb
+provider: local
+online_store:
+  type: sqlite
+  path: data/online.db
